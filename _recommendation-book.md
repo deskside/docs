@@ -1,5 +1,7 @@
 # 颁奖小会 阅读分会场
 
+含有书名号的为书籍，不含有书名号的为文章。
+
 + 成长
 	+ [《福格行为模型》](fogg-behavioural-models.md)
 	+ [《明亮的对话》](transparent-conversation.md)

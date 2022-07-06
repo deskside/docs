@@ -1,7 +1,8 @@
+# 创作者札记
 
-+ [2021年，我为什么还选择用Newsletter？](why-newsletter-1.md)
-+ [再思考：为什么要创作 Newsletter？](why-newsletter-2.md)
-+ [写作陷入瓶颈期](stuck-as-creator.md)
-+ [创作的自我怀疑与倒逼输入](self-suspicious.md)
-+ [抓住机会，及时捕捉灵感](seize-inspiration.md)
-+ [哪怕是初学者，也要勇敢分享](be-brave-to-share.md)
++ [2021年，我为什么还选择用Newsletter？](https://deskside.github.io/post/why-newsletter-1)
++ [再思考：为什么要创作 Newsletter？](https://deskside.github.io/post/why-newsletter-2)
++ [写作陷入瓶颈期](https://deskside.github.io/post/stuck-as-creator)
++ [创作的自我怀疑与倒逼输入](https://deskside.github.io/post/self-suspicious)
++ [抓住机会，及时捕捉灵感](https://deskside.github.io/post/seize-inspiration)
++ [哪怕是初学者，也要勇敢分享](https://deskside.github.io/post/be-brave-to-share)
