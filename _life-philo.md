@@ -1,0 +1,7 @@
++ [先读百卷书，再行万里路，边读万卷书](read-travel-read.md)
++ [我们总爱追问意义](we-like-asking-about-meaning-of-life.md)
++ [心静自然凉的时刻](calm-down-and-cool-down.md)
++ [换一种说法，换一种心态](change-the-way-of-talking-and-change-everything.md)
++ [犯错无错，你讨厌犯错吗？](dont-be-afraid-of-mistakes.md)
++ [不要做别人思想的跑马场](dont-let-others-override-our-thinkings.md)
++ [不要把鸡蛋放在一个篮子里](dont-put-eggs-all-in-1-basket.md)
