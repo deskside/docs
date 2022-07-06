@@ -1,19 +1,35 @@
-# 主题
+亲爱的朋友：
 
-> 一个很棒的测试
+**你好，我是桌沿！**
+
+每周五早上，我都会通过向订阅了我的 Newsletter 的朋友们推送一篇文章，分享本周我的思考、阅读，或遇到的优秀作品（包含书籍、影视、文章等）。如果你对此感兴趣，[欢迎你点击此处订阅](https://deskside.zhubai.love/)。
+
+---
+
+如果你是新朋友，这些小标签能帮你了解我：
+
+🌶 一个很能吃辣的广州人嘿嘿，不信咱约个饭挑战一下？
+
+🌸 毕业于樱花纷飞的武汉大学，时常怀念樱花树下的人和事。
+
+🏋️‍♂️ 健身入门级玩家，不过仍在为了六块腹肌而努力啦！
+
+🧑‍💻 Swift 语言小学生。
+
+✏️ 少数派签约[供稿作者](https://sspai.com/u/379wzx2e/posts)，同时也是认真的 [Newsletter 创作者](https://deskside.zhubai.love/)。
+
+---
+
+如果你对我的作品感兴趣，你可能会享受以下作品：
+
++ [信息与想法的川流，如何收纳与整理？](https://sspai.com/post/66423)
++ [写给所有需要做笔记的你：为什么我推荐你一定试试 Notion ？](https://sspai.com/post/65155)
+
+---
 
 
 
-```
-Code block paste
+最重要的是，感谢你浏览我的网站！如果你对我的第一印象还不错，不妨[点击此处](https://deskside.zhubai.love/)订阅我的 Newsletter 吧！在信息过剩的年代，订阅新的信息源可能意味着新的垃圾，但我还是请你放心订阅，我会尽全力为你提供价值。
 
+希望你一直保持创造力！
 
-
-
-```
-
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T9dJ_cE5Asw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,12 +1,4 @@
----
-title: 我们如何思考自己与他人的人生
-date: 2022-03-11
-tags: [人生,意义]
-categories:
-  - 我的人生哲学
-cover: img/life-philo.png
-feature: true
----
+# 我们如何思考自己与他人的人生
 
 ### 人生参考系
 
