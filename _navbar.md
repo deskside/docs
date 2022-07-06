@@ -1,11 +1,9 @@
 
-+ Getting started
-  + [Quick start](<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/dark.css" />
-)
-  + [Writing more pages](more-pages.md) 
-  + [Custom navbar](custom-navbar.md) 
-  + [Cover page](cover.md) 
-+ Configuration  
++ 关于桌沿
+
+  + [深入了解](README.md)
+  + [返回首页]()
++ 开发笔记  
   + [Configuration](configuration.md) 
   + [Themes](themes.md)  
   + [Using plugins](plugins.md)  

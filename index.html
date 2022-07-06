@@ -7,20 +7,66 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-</head>
+  <link rel="icon" href="/_img/logo.svg" type="image/x-icon" />
+  <link rel="shortcut icon" href="/_img/logo.svg" type="image/x-icon" />
+  </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'deskside',
-      repo: '',
+      name: '<span>桌沿奇思</span>',
+      nameLink: '/',
+      themeColor: '#ff0000',
+      repo: 'true',
+      logo: '/_img/logo.svg',
       coverpage: true,
+      onlyCover: true,
       loadNavbar: true,
       loadSidebar: true,
-      mergeNavbar: true
-    }
-  </script>
+      subMaxLevel: 4,
+      search: 'auto',
+      autoHeader: false,
+      auto2top: true,
+      relativePath: true,
+      fallbackLanguages: ['en', 'zh-CN'],
+      notFoundPage: 'my404.md',
+      mergeNavbar: true,
+      count:{
+	    countable: true,
+	    position: 'top',
+	    margin: '10px',
+	    float: 'right',
+	    fontsize:'0.9em',
+	    color:'#808080',
+	    language:'chinese',
+	    localization: {
+	      words: "",
+	      minute: ""
+	    },
+	    isExpected: true
+	  },
+	  timeUpdater: {
+	    text: "<div align='right' width='200px' style='color:gray;font-size:0.9em'> 最后更新时间： {docsify-updated} <br> 本文遵循 CC BY-NC-SA 4.0 协议</div>",
+	    formatUpdated: "{YYYY}-{MM}-{DD} {HH}:{mm}",
+	  },
+	  corner: {
+        url: "https://deskside.zhubai.love",
+        // you can set the image link here  
+        icon: "https://s2.loli.net/2022/07/06/9ROLHAeEStbao7G.gif",
+        // the size of the image  
+        width: 50,
+        height: 50
+      }
+	  
+  }
+</script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-corner/dist/docsify-corner.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pangu/lib/pangu.min.js"></script>
 </body>
 </html>
