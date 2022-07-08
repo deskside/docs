@@ -1,6 +1,6 @@
 + [主页](/README.md)
 + [我的人生哲学🤔](_life-philo)
-+ [和自己和解](_reconcile-with-myself.md)
++ [与自己和解](_reconcile-with-myself.md)
 + [数字健康💻](_digital-health.md)
 + [创作者札记✏](_creator-note.md)
 + [饮食、睡眠与健康🌙](_food-sleep-workout.md)
@@ -16,4 +16,3 @@
 
 
 
-> **Copyright © 2020-2022 deskside zhuoyan, All rights reserved**
