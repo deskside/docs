@@ -8,11 +8,5 @@
 + [论他人作为自己👨‍👩‍👦‍👦](_others-as-myself.md)
 + [桌沿对谈🗨](_deskside-talk)
 + [年终总结🛋️](_annual-review.md)
-+ [颁奖小会🏅](_award-giving-meeting.md)
-  + [阅读](_recommendation-book.md)
-  + [影视](_recommendation-movie.md)
-  + [好物](_recommendation-buying.md)
-  + [软件](_recommendation-app.md)
-
-
++ [策展计划🏅](_curation.md)
 
