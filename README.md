@@ -22,7 +22,7 @@
 	+ [不要做别人思想的跑马场](https://deskside.github.io/post/dont-let-others-override-our-thinkings)
 
 
-	
+​	
 # 与自己和解
 
 有人说，成长的过程就是与自己逐渐和解的过程。我深表同意。
@@ -38,7 +38,7 @@
 + 与自己相处
 	+ [一起来打破日记吧！](https://deskside.github.io/post/break-traditional-diary)
 	+ [宽恕自己，才能迈步向前](https://deskside.github.io/post/forgive-myself-to-move-forward)
-	+ [换一种说法，换一种心态](https://deskside.github.io/post/change-the-way-of-talking-and-change-everythingd)
+	+ [换一种说法，换一种心态](https://deskside.github.io/post/change-the-way-of-talking-and-change-everything)
 
 
 # 数字健康
